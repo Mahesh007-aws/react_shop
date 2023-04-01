@@ -1,0 +1,300 @@
+{
+  "Electronics": [
+    {
+      "ProductName": "iphone",
+      "Quantity": 20,
+      "price": 59999,
+      "url": "https://i.pinimg.com/originals/e9/4c/3f/e94c3f03288637c0d7d42db96aa28f98.jpg",
+      "desc": "Apple bran new chipset A15 bionic chip 4nm technology",
+      "Manu": "Apple Pvt Ltd",
+      "PId": "ALMEL003",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "ProductName": "oopo a32",
+      "Quantity": "5",
+      "price": 32999,
+      "url": "https://th.bing.com/th/id/OIP.ZXq6nHr3_H9ORqITwsd9MgHaHa?pid=ImgDet&w=221&h=221&c=7&dpr=1.25",
+      "desc": "Brand new Pop up Camera with foldable dispaly",
+      "Manu": "oopo Mobiles China LTD",
+      "PId": "ALMEL004"
+    },
+    {
+      "ProductName": "sony printers",
+      "Quantity": 19,
+      "price": 48590,
+      "url": "https://th.bing.com/th/id/R.430fc6fe501510fb7fdf97deb0ef362c?rik=dX8oCn%2f98vAgPg&riu=http%3a%2f%2f2.bp.blogspot.com%2f-5JKmU9Pmw-I%2fU_2sGFrh4aI%2fAAAAAAAAB3Y%2fTzASqLben8c%2fs1600%2f377.jpg&ehk=6I0RZzNpNk5GFvGamjnj0vJFXOSH2oXOL1Z2Xm0KFUM%3d&risl=&pid=ImgRaw&r=0",
+      "desc": "Blutooth and Wifi Enabled printer with bright colors ",
+      "Manu": " Sony Printer and Inks LTD",
+      "PId": "ALMEL005",
+      "id": 5
+    },
+    {
+      "ProductName": " OLED TV",
+      "Quantity": 11,
+      "price": 21900,
+      "url": "https://i.ytimg.com/vi/v9l87daNgkI/maxresdefault.jpg",
+      "desc": "it's provided with retina OLED super power less consumption display",
+      "Manu": "Samsung LTD",
+      "PId": "ALMEL006",
+      "id": 6
+    },
+    {
+      "ProductName": "Turbo Power Bank",
+      "Quantity": 10,
+      "price": 6000,
+      "url": "https://th.bing.com/th/id/R.16ca3f738f418e254ed03f52cef72a39?rik=aRDalp8nkR7PhQ&riu=http%3a%2f%2fmedia.gadgetsin.com%2f2016%2f04%2focharger_pro_portable_wireless_charger_with_power_bank_microsd_card_reader_microusb_and_lightning_connectors_5.jpg&ehk=p6bpQzn8p5pI0Zj1l4lYuVhCy9omZyUq0udoGZpPNqk%3d&risl=&pid=ImgRaw&r=0",
+      "desc": " Fast power bank charger",
+      "Manu": "India ltd",
+      "PId": "ALMEL007",
+      "id": 7
+    },
+    {
+      "ProductName": "Sony camera",
+      "Quantity": 10,
+      "price": 9174,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Canon_EOS_1x_APS_film_camera_(4)_(6750535177).jpg/1024px-Canon_EOS_1x_APS_film_camera_(4)_(6750535177).jpg",
+      "desc": "new solar impenetratable lens",
+      "Manu": "Sony LTD",
+      "PId": "ALMEL008",
+      "id": 8
+    },
+    {
+      "ProductName": "Led bulbs",
+      "Quantity": 10,
+      "price": 6000,
+      "url": "https://th.bing.com/images/ledbulb.jpg",
+      "desc": "bright Led Blub of various Watts Available",
+      "Manu": "Wipro Electronics Ltd",
+      "PId": "ALMEL011",
+      "id": 9
+    }
+  ],
+  "Grocerys": [
+    {
+      "ProductName": "Brown Sugar 1KG",
+      "Quantity": 20,
+      "price": 290,
+      "url": "https://th.bing.com/th/id/OIP.maClAYwWDSV-ZEuKP2doagHaHa?pid=ImgDet&rs=1",
+      "desc": "",
+      "Manu": "",
+      "PId": "",
+      "id": 1
+    },
+    {
+      "ProductName": "Brown Rice 10KG",
+      "Quantity": 20,
+      "price": 600,
+      "url": "https://th.bing.com/th/id/OIP.Hw371_O5Bvu4NrLd7F-xDQHaH-?pid=ImgDet&rs=1",
+      "desc": "",
+      "Manu": "",
+      "PId": "",
+      "id": 2
+    },
+    {
+      "ProductName": "vegetable oil 2kg",
+      "Quantity": 20,
+      "price": 699,
+      "url": "https://th.bing.com/th/id/R.db00a190704f505bafba19a67bc9f092?rik=9iOyrd7Q2xEodw&riu=http%3a%2f%2fcloud.foodista.com%2fcontent%2fimages%2f2782344ff1cb58ff283e81ac0b59e861e4939af7_607x400.jpg&ehk=FDrjEjfdBvLRsqFWVDFmyqoAoNEomRHihgcDDS4HQ9Y%3d&risl=&pid=ImgRaw&r=0",
+      "desc": "",
+      "Manu": "",
+      "PId": "",
+      "id": 3
+    },
+    {
+      "ProductName": "pure sesam oil 2kg",
+      "Quantity": 20,
+      "price": 1699,
+      "url": "https://lh6.googleusercontent.com/proxy/dgBZkpkA6eRsua7Wao4eE0P9hPotEgSu7QF-wNUd2irLzR9SnyAQvLxwdDdFFFqfKIofrekOJgBfe95cKxn_oyclqC-S7RF6dd6gDfIHqS6yGxk=s0-d",
+      "desc": "",
+      "Manu": "",
+      "PId": "",
+      "id": 4
+    },
+    {
+      "ProductName": "Black Dall",
+      "Quantity": 20,
+      "price": 110,
+      "url": "https://th.bing.com/th/id/R.d33f1e0e4617102bbe4cf02954eba9eb?rik=EAajsNduvwpleQ&riu=http%3a%2f%2fwww.organicdepot.in%2fmedia%2fcatalog%2fproduct%2fcache%2f1%2fimage%2f9df78eab33525d08d6e5fb8d27136e95%2fu%2fr%2furaddhaldelhimagicblogspotcom_4.jpg&ehk=QtsI4PiiGtFTKap8ICbYurwK8XntqMqOp6z5fSRVUcE%3d&risl=&pid=ImgRaw&r=0",
+      "desc": "",
+      "Manu": "",
+      "PId": "",
+      "id": 5
+    },
+    {
+      "ProductName": "Wheat Flour",
+      "Quantity": 20,
+      "price": 240,
+      "url": "https://th.bing.com/th/id/OIP.TDyNgj_zsx9es_O5ZxdqGAAAAA?pid=ImgDet&w=432&h=300&rs=1",
+      "desc": "",
+      "Manu": "",
+      "PId": "",
+      "id": 6
+    }
+  ],
+  "Fruits": [
+    {
+      "ProductName": "oranges 1Kg",
+      "Quantity": 50,
+      "price": 90,
+      "url": "https://cdn.shopify.com/s/files/1/0206/9470/files/Navel_Orange.jpg?6755241627182348697",
+      "desc": "",
+      "Manu": "",
+      "PId": "",
+      "id": 1
+    },
+    {
+      "ProductName": "Grapes",
+      "Quantity": 20,
+      "price": 130,
+      "url": "https://th.bing.com/th/id/R.d9f8470282c70a3586ad3add4c33edb1?rik=j0x7snwwJnan6w&riu=http%3a%2f%2fthefunstons.com%2fwp-content%2fuploads%2f2014%2f06%2fgrapes.jpg&ehk=zBMn648hfGE9QJinqtT1KKrwWPnLjRyqA0fuhbS8Pj8%3d&risl=&pid=ImgRaw&r=0",
+      "desc": "",
+      "Manu": "",
+      "PId": "",
+      "id": 2
+    },
+    {
+      "ProductName": "Apples 1kg",
+      "Quantity": 30,
+      "price": 330,
+      "url": "https://indiachronicles.com/wp-content/uploads/2020/06/apple-variety-1024x960.jpg",
+      "desc": "",
+      "Manu": "",
+      "PId": "",
+      "id": 3
+    },
+    {
+      "ProductName": "Water Melon 1kg",
+      "Quantity": 30,
+      "price": 110,
+      "url": "https://th.bing.com/th/id/OIP.PKWvqa7CNElsyYcanefLPgHaF7?pid=ImgDet&w=740&h=592&rs=1",
+      "desc": "",
+      "Manu": "",
+      "PId": "",
+      "id": 4
+    },
+    {
+      "ProductName": "Almonds 1kg",
+      "Quantity": 30,
+      "price": 790,
+      "url": "https://farm4.staticflickr.com/3188/3060935008_994195f247_o_d.jpg",
+      "desc": "",
+      "Manu": "",
+      "PId": "",
+      "id": 5
+    },
+    {
+      "ProductName": "Cashew !kg",
+      "Quantity": 30,
+      "price": 1110,
+      "url": "https://th.bing.com/th/id/OIP.6eGC7YWTRjA7LnscF72thQHaE2?pid=ImgDet&rs=1",
+      "desc": "",
+      "Manu": "",
+      "PId": "",
+      "id": 6
+    },
+    {
+      "ProductName": "Dates !kg",
+      "Quantity": 30,
+      "price": 111,
+      "url": "https://img2.exportersindia.com/product_images/bc-full/dir_184/5509014/black-dates-1518267907-3638485.jpeg",
+      "desc": "",
+      "Manu": "",
+      "PId": "",
+      "id": 7
+    }
+  ],
+  "orders": [
+    {
+      "pid": 1,
+      "pname": "NOKIA",
+      "pquantity": 20,
+      "pprice": 35810,
+      "pimg": "https://gadgetworld254.co.ke/wp-content/uploads/2020/12/1607170644_Nokia-8.3-5G-600x600-1.jpg",
+      "id": 1
+    },
+    {
+      "pid": 2,
+      "pname": "ralme X 50",
+      "pquantity": 15,
+      "pprice": 43999,
+      "pimg": "https://th.bing.com/th/id/OIP.CUAs6SFpmK7pIOGUj_AaUAHaHa?pid=ImgDet&rs=1",
+      "id": 2
+    }
+  ],
+  "register": [
+    {
+      "Fname": "Mahesh",
+      "Lname": "Dharapureddy",
+      "Email": "dharapureddy.mahesh@wipro.com",
+      "Phone": "6300356590",
+      "Address": "520 E 70th St, New York, NY 10021, USA",
+      "Password": "Mahesh@143",
+      "CPassword": "Mahesh@143",
+      "id": 1
+    },
+    {
+      "Fname": "Mahesh",
+      "Lname": "Dangerlee",
+      "Email": "maheshdharapureddy@gmail.com",
+      "Phone": "6300356590",
+      "Address": "D.no-30-20-5A, Nehru street, sitarampuram, vijayawada-2",
+      "Password": "123123123",
+      "CPassword": "123123123",
+      "id": 2
+    },
+    {
+      "Fname": "lee",
+      "Lname": "Awesome007",
+      "Email": "maheshdharapureddy@gmail.com",
+      "Phone": "6300356590",
+      "Address": "D.no-30-20-5A, Nehru street, sitarampuram, vijayawada-2",
+      "Password": "123123123007",
+      "CPassword": "123123123007",
+      "id": 3
+    },
+    {
+      "Fname": "user",
+      "Lname": "regularuser",
+      "Email": "hr-indiabillable@wipro.com",
+      "Phone": "9347099773",
+      "Address": "520 E 70th St, New York, NY 10021, USA",
+      "Password": "useruser",
+      "CPassword": "useruser",
+      "id": 4
+    },
+    {
+      "Fname": "venkat",
+      "Lname": "malakapurapu",
+      "Email": "saikpg143@gmail.com",
+      "Phone": "9581891514",
+      "Address": "46-4-76",
+      "Password": "kpgs1425",
+      "CPassword": "kpgs1425",
+      "id": 5
+    },
+    {
+      "Fname": "bruce",
+      "Lname": "waynereo",
+      "Email": "dharapureddy.mahesh@wipro.com",
+      "Phone": "6300356590",
+      "Address": "520 E 70th St, New York, NY 10021, USA",
+      "Password": "wayne@57",
+      "CPassword": "wayne@57",
+      "id": 6
+    }
+  ],
+  "admin": [
+    {
+      "Fname": "admin",
+      "Lname": "admin123",
+      "Email": "admin@frutopia.com",
+      "Phone": "9988667524",
+      "Address": "near hallmark jewellary shop near where it is located",
+      "Password": "admin@007",
+      "CPassword": "admin@007",
+      "id": 5
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+.gray{ color:rgb(6, 21, 192);
+    background-color:rgba(181, 174, 174, 0.8);
+    border-radius: 10%;
+    width: 20rem;
+    height: 10%;
+
+}
+
+.backg{
+    width: 100%;
+    height:100%;
+    /* background-image: url("src\assets\flogin.png"); */
+    background-size:content ;
+}
+
+.Shadow{
+    color: #ec2f4b;
+    text-shadow: 4px 4px #1d2671;
+    font-size: 3rem;
+    text-decoration: underline;
+    
+  }
